@@ -1,4 +1,4 @@
-# Minion-Calc-v.1
+# Minion-Calc-v.1.1
 
 Datei mit Visual Studio 2019 öffnen.
 Nachdem man Python als Sprache heruntergeladen hat .
